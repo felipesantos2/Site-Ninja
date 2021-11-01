@@ -333,6 +333,7 @@ footer .detail {
 
     #skills-section .container {
         flex-direction: column;
+        
     }
 
     .skills-container h3, .skills-container .subtitle {
@@ -342,18 +343,23 @@ footer .detail {
 
     .skills-container {
         padding: 25px;
+
     }
+
     .skills-container.central {
         border-top: 1px solid #CCC;
         border-bottom: 1px solid #CCC
 
     }
+
     /* jobs */
+
     
     .job-container {
         flex-direction: column;
         margin-bottom: 0;
     }
+
 
     #jobs-section h2, #jobs-section p {
         width: 85%;
@@ -369,10 +375,13 @@ footer .detail {
         flex: 1 1 300px;
     }
 
+
     /* footer  */
+
     footer {
         padding: 50px 15px;
     }
+
 
     footer form {
         width: 100%;
